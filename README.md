@@ -1,6 +1,5 @@
 # CSdoom
-My Doom-inspired game-thing written in the monogame library
-
+My Doom-inspired game-thing written in the monogame library, uploaded for part of my college portfolio
 
 The controls are:
 
