@@ -1,0 +1,1 @@
+This is the assets folder. It holds stuff that is not required for the engine, such as sprites and map generation
