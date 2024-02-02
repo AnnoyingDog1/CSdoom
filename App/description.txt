@@ -1,0 +1,3 @@
+This is the folder with the actual application and dependancies
+  
+you can play the game by simply running the CSDoom application.
