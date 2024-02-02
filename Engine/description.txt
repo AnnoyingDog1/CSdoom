@@ -1,0 +1,1 @@
+This is the engine folder. it contains all the stuff that is needed to create a program that runs my code, such as base entity classes and rendering.
